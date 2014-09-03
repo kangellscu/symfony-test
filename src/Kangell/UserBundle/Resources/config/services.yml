@@ -1,0 +1,7 @@
+parameters:
+#    kangell_user.example.class: Kangell\UserBundle\Example
+
+services:
+#    kangell_user.example:
+#        class: %kangell_user.example.class%
+#        arguments: [@service_id, "plain_value", %parameter%]
